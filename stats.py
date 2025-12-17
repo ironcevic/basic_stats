@@ -4,7 +4,6 @@ import matplotlib.pyplot as plt
 import matplotlib as mpl
 
 from scipy.stats import linregress
-from scipy import curve_fit
 mpl.rcParams['pdf.fonttype'] = 42
 mpl.rcParams['ps.fonttype'] = 42
 # mpl.rc('font',**{'family':'sans-serif','sans-serif':['Arial']})
